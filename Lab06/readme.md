@@ -1,5 +1,7 @@
 # Lab006 Parking Lot 
 
+![Resultado Windows](https://raw.githubusercontent.com/alvarezht/OperatingSystem/main/Lab06/imagen1.png)
+
 Cada auto hace:
 1. Llega y registra evento con timestamp.
 2. Espera en `sem_wait` hasta tener cupo.
